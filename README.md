@@ -1,4 +1,4 @@
-#👋 Hi, I’m Mikołaj
+# 👋 Hi, I’m Mikołaj
 - 🌍 Based in Krakow, Poland
 - 💻 See my portfolio at [My Website](#). Work in progress !!
 - 🧠 Learning Front-End Web Development and some python.
